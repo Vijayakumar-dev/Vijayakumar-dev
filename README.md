@@ -46,7 +46,7 @@ Seeking a software developer role where I can apply my technical skills to solve
 
 
 ## 📝 Contact Me
-- **Email:** vijayakumartechspace.com
+- **Email:** vijayakumartechspace@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/vijayakumar-g-5301a6232
 - **GitHub:** https://github.com/Vijayakumar-dev/Vijayakumar-dev
 
